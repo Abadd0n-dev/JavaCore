@@ -1,0 +1,5 @@
+javac --release 8 -sourcepath ./JavaCore -d out JavaCore/Seminar1/main/Main.java
+Here is your number: 8
+Here is your number: -2
+Here is your number: 15
+Here is your number: 0
